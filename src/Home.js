@@ -69,7 +69,7 @@ const Home = () => {
         </div>
 
         <div className="row d-flex align-items-center mt-4 mb-4">
-            <MovieListHeading heading="Favourites"/>
+            <MovieListHeading heading="Favourite"/>
          </div>
 
          <div className="row">
